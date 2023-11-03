@@ -188,20 +188,16 @@ footer {
   position:fixed;
   bottom:50px;
 }
-.text {
-  color:#888888;
+.new {
+  color:#1fb141;
 }
-.html {
-  color:#009933;
+.cs {
+  color:#b11f8f;
 }
-.js {
-  color:#FF9900;
+.es {
+  color:#ff4f00;
 }
-.php {
-  color:#4F5B93;
-}
-.star
-{
+.star {
 text-shadow: 0 0 5px #ffe169;
 color:#ffb803;
 }
