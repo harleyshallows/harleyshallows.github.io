@@ -1,5 +1,18 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 
+@font-face {
+  font-family: "Gotika Black";
+  src: url(fonts/Gotika Black.ttf);
+}
+
+gbf {
+  font-family: "Gotika Black"
+}
+
+div {
+  font-family: myFirstFont;
+}
+
 body {
   padding:50px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
