@@ -118,7 +118,7 @@ body {
 	 margin: 4px 4px 0 0;
 	 padding-top: 4px;
 	 border-top: 1.5px dotted;
-	 font: 11px/1 'Inconsolata';
+	 font: 13 'Inconsolata';
 }
  .snack {
 	 grid-column: 6 / span 1;
