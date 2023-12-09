@@ -3,12 +3,15 @@
 body {
 	background: #f2f2f2;
 	font-family: 'Questrial', sans-serif;
+	background-image: url('img/background.png');
+	background-size: cover;
 }
 
 h1 {
 	font-family: 'Inconsolata', serif;
-	font-size: 30px;
+	font-size: 50px;
 	font-weight: bold;
+	color: white;
 }
 
 .main-content {
