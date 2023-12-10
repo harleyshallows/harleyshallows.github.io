@@ -14,6 +14,15 @@ h1 {
 	color: white;
 }
 
+.select {
+	-webkit-touch-callout: all;
+	-webkit-user-select: all;
+	-khtml-user-select: all;
+	-moz-user-select: all;
+	-ms-user-select: all;
+	user-select: all;
+}
+
 .main-content {
 	margin: 4em auto 0;
 	width: 740px;
